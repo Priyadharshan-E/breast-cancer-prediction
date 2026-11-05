@@ -35,6 +35,8 @@ Python, Pandas, Scikit-learn, Matplotlib, Google Colab, GitHub
 | Actual Benign    | 1  | 71 |
 
 Logistic Regression gave the best result, with precision and recall of about 98% for both classes.
+<img width="630" height="470" alt="image" src="https://github.com/user-attachments/assets/1469b465-df46-44e2-9c4d-b6e0b7ff1425" />
+
 
 ## Real-world Applications
 AI is already used in healthcare for early cancer detection. This project is a simplified version using tabular data. Real systems use medical images with deep learning and need clinical validation before use.
