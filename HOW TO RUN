@@ -1,0 +1,4 @@
+## How to Run
+1. Open the notebook in Google Colab or Jupyter Notebook
+2. Run all cells
+3. View the accuracy, confusion matrix and feature importance graph
